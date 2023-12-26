@@ -1,0 +1,556 @@
+{
+  "arBlogs": [
+    {
+      "id": "The-importance-of-Business-knowledge-before-design",
+      "category": "تصميم واجهة المستخدم",
+      "firstHeading": "أهمية المعرفة التجارية قبل التصميم: تأثير الأعمال على واجهة المستخدم وتجربة المستخدم",
+      "secondHeading": "تطبيق السفر الجديد:",
+      "thirdHeading": "متجر الأزياء عبر الإنترنت لملابس الرجال:",
+      "firstBanner": "https://i.postimg.cc/m2RMmCfR/blog-banner-3.png",
+      "secondBanner": "https://i.postimg.cc/tJ8cHkhr/blog-second-banner-1.png",
+      "firstParagraph": "في عصر التكنولوجيا الحديثة، أصبح التصميم الجذاب والواجهات سهلة الاستخدام عاملان حاسمان لنجاح أي منتج رقمي. ومع ذلك ، قبل الغوص في تصميم الواجهة وتعزيز تجربة المستخدم ، من المهم فهم أساسيات الأعمال وفهم كيفية تأثيرها على المنتج النهائي. المعرفة بالأعمال قبل التصميم عنصر حاسم يمكن أن يحدث فرقًا كبيرًا في تجربة المستخدم ونجاح المنتج. تأثير الأعمال على واجهة المستخدم وتجربة المستخدم: تجعل واجهة المستخدم المصممة بشكل جيد التفاعل مع المنتج سلسًا ومريحًا ، بينما يمكن أن تؤدي واجهة المستخدم المصممة بشكل سيئ إلى صعوبات في الملاحة وعدم رضا المستخدم. لذلك ، عندما نمتلك معرفة الأعمال قبل التصميم ، يمكننا فهم احتياجات العملاء وأهداف الشركة بشكل أفضل. يمكننا تحليل سوق المستهلك والمنافسة ، وفهم ما يجذب ويثير ا",
+      "secondParagraph": "دعونا نفترض أن لدينا شركة ناشئة تقوم بتطوير تطبيق سفر يسمح للمستخدمين بحجز الرحلات الجوية والفنادق. إذا كان فريق التصميم يفهم الأعمال بشكل كامل ، فسيكون لديهم فهم واضح لاحتياجات السوق والجمهور المستهدف. وبالتالي ، سيتمكنون من تصميم واجهة مستخدم سهلة الاستخدام تعكس تلك الاحتياجات.",
+      "thirdParagraph": "دعونا نتخيل أن لدينا متجرًا عبر الإنترنت يبيع ملابس الرجال الفاخرة. من خلال فهم الأعمال ، يمكن لفريق التصميم تحديد الجمهور المستهدف وأهمية التصميم الجذاب والتصوير المهني للملابس. لذلك ، يجب على فريق التصميم إيلاء اهتمام كاف لفهم الأعمال وتطبيقه على عملهم لضمان النجاح والتميز في عالم التصميم. لتعزيز فهمك لهذا الموضوع ، يمكنك الاستفادة من بعض المصادر الموثوقة التي تناقش العلاقة بين الأعمال والتصميم وأهميتها. تشمل بعض هذه المصادر: 1 - التفكير التجاري للمصممين: من البحث إلى النتائج 2 - بقلم ريان رومزي. أعمال التصميم: تحقيق التوازن بين الإبداع والربحية بقلم كيث جرانيت. 3 - التصميم هو وظيفة بقلم مايك مونتيرو. 4 - التصميم للعصر الرقمي: كيفية إنشاء منتجات وخدمات موجهة نحو الإنسان من قبل كيم جودوين. 5 - الشرك",
+      "title": "تصميم واجهة المستخدم",
+      "desc": "أهمية المعرفة التجارية قبل التصميم: تأثير الأعمال على واجهة المستخدم وتجربة المستخدم ...",
+      "image": "https://i.postimg.cc/k4vjH94g/blog-8.png",
+      "date": "2023-12-16"
+    },
+    {
+      "id": "What's-the-difference-between-ux-and-ui",
+      "category": "تصميم واجهة المستخدم و تصميم تجربة المستخدم",
+      "firstHeading": "ما هو الفرق بين UX و UI؟",
+      "secondHeading": "ما هو UX؟",
+      "thirdHeading": "ما هو UI؟",
+      "firstBanner": "https://i.postimg.cc/G3jJwqj9/blog-banner-4.png",
+      "secondBanner": "https://i.postimg.cc/NfJ6LFSc/blog-second-banner-2.png",
+      "firstParagraph": "في عصر التكنولوجيا الحديثة ، أصبح التصميم الجذاب والواجهات سهلة الاستخدام عاملان حاسمان لنجاح أي منتج رقمي. ومع ذلك ، قبل الغوص في تصميم الواجهة وتعزيز تجربة المستخدم ، من المهم فهم أساسيات الأعمال وفهم كيفية تأثيرها على المنتج النهائي. المعرفة بالأعمال قبل التصميم عنصر حاسم يمكن أن يحدث فرقًا كبيرًا في تجربة المستخدم ونجاح المنتج. تأثير الأعمال على واجهة المستخدم وتجربة المستخدم: تجعل واجهة المستخدم المصممة بشكل جيد التفاعل مع المنتج سلسًا ومريحًا ، بينما يمكن أن تؤدي واجهة المستخدم المصممة بشكل سيئ إلى صعوبات في الملاحة وعدم رضا المستخدم. لذلك ، عندما نمتلك معرفة الأعمال قبل التصميم ، يمكننا فهم احتياجات العملاء وأهداف الشركة بشكل أفضل. يمكننا تحليل سوق المستهلك والمنافسة ، وفهم ما يجذب ويثير ا",
+      "secondParagraph": "دعونا نفترض أن لدينا شركة ناشئة تقوم بتطوير تطبيق سفر يسمح للمستخدمين بحجز الرحلات الجوية والفنادق. إذا كان فريق التصميم يفهم الأعمال بشكل كامل ، فسيكون لديهم فهم واضح لاحتياجات السوق والجمهور المستهدف. وبالتالي ، سيتمكنون من تصميم واجهة مستخدم سهلة الاستخدام تعكس تلك الاحتياجات.",
+      "thirdParagraph": "دعونا نتخيل أن لدينا متجرًا عبر الإنترنت يبيع ملابس الرجال الفاخرة. من خلال فهم الأعمال ، يمكن لفريق التصميم تحديد الجمهور المستهدف وأهمية التصميم الجذاب والتصوير المهني للملابس. لذلك ، يجب على فريق التصميم إيلاء اهتمام كاف لفهم الأعمال وتطبيقه على عملهم لضمان النجاح والتميز في عالم التصميم. لتعزيز فهمك لهذا الموضوع ، يمكنك الاستفادة من بعض المصادر الموثوقة التي تناقش العلاقة بين الأعمال والتصميم وأهميتها. تشمل بعض هذه المصادر: 1 - التفكير التجاري للمصممين: من البحث إلى النتائج 2 - بقلم ريان رومزي. أعمال التصميم: تحقيق التوازن بين الإبداع والربحية بقلم كيث جرانيت. 3 - التصميم هو وظيفة بقلم مايك مونتيرو. 4 - التصميم للعصر الرقمي: كيفية إنشاء منتجات وخدمات موجهة نحو الإنسان من قبل كيم جودوين. 5 - الشرك",
+      "title": "تصميم واجهة المستخدم وتجربة المستخدم",
+      "desc": "ما هو الفرق بين UX و UI؟ عندما يتعلق الأمر بالتص",
+      "image": "https://i.postimg.cc/50dq1rGQ/blog-7.png",
+      "date": "July 16, 2023"
+    },
+    {
+      "id": "An-introduction-to-digital-product-design",
+      "category": "تصميم واجهة المستخدم",
+      "firstHeading": "مقدمة في تصميم المنتجات الرقمية",
+      "secondHeading": "الطباعة:",
+      "thirdHeading": "الألوان:",
+      "firstBanner": "https://i.postimg.cc/66H2fS0V/blog-banner-5.png",
+      "secondBanner": "https://i.postimg.cc/bw1wWFQB/blog-second-banner-3.png",
+      "firstParagraph": "في عصر التكنولوجيا الحديثة ، أصبح التصميم الجذاب والواجهات سهلة الاستخدام عاملان حاسمان لنجاح أي منتج رقمي. ومع ذلك ، قبل الغوص في تصميم الواجهة وتعزيز تجربة المستخدم ، من المهم فهم أساسيات الأعمال وفهم كيفية تأثيرها على المنتج النهائي. المعرفة بالأعمال قبل التصميم عنصر حاسم يمكن أن يحدث فرقًا كبيرًا في تجربة المستخدم ونجاح المنتج. تأثير الأعمال على واجهة المستخدم وتجربة المستخدم: تجعل واجهة المستخدم المصممة بشكل جيد التفاعل مع المنتج سلسًا ومريحًا ، بينما يمكن أن تؤدي واجهة المستخدم المصممة بشكل سيئ إلى صعوبات في الملاحة وعدم رضا المستخدم. لذلك ، عندما نمتلك معرفة الأعمال قبل التصميم ، يمكننا فهم احتياجات العملاء وأهداف الشركة بشكل أفضل. يمكننا تحليل سوق المستهلك والمنافسة ، وفهم ما يجذب ويثير ا",
+      "secondParagraph": "دعونا نفترض أن لدينا شركة ناشئة تقوم بتطوير تطبيق سفر يسمح للمستخدمين بحجز الرحلات الجوية والفنادق. إذا كان فريق التصميم يفهم الأعمال بشكل كامل ، فسيكون لديهم فهم واضح لاحتياجات السوق والجمهور المستهدف. وبالتالي ، سيتمكنون من تصميم واجهة مستخدم سهلة الاستخدام تعكس تلك الاحتياجات.",
+      "thirdParagraph": "دعونا نتخيل أن لدينا متجرًا عبر الإنترنت يبيع ملابس الرجال الفاخرة. من خلال فهم الأعمال ، يمكن لفريق التصميم تحديد الجمهور المستهدف وأهمية التصميم الجذاب والتصوير المهني للملابس. لذلك ، يجب على فريق التصميم إيلاء اهتمام كاف لفهم الأعمال وتطبيقه على عملهم لضمان النجاح والتميز في عالم التصميم. لتعزيز فهمك لهذا الموضوع ، يمكنك الاستفادة من بعض المصادر الموثوقة التي تناقش العلاقة بين الأعمال والتصميم وأهميتها. تشمل بعض هذه المصادر: 1 - التفكير التجاري للمصممين: من البحث إلى النتائج 2 - بقلم ريان رومزي. أعمال التصميم: تحقيق التوازن بين الإبداع والربحية بقلم كيث جرانيت. 3 - التصميم هو وظيفة بقلم مايك مونتيرو. 4 - التصميم للعصر الرقمي: كيفية إنشاء منتجات وخدمات موجهة نحو الإنسان من قبل كيم جودوين. 5 - الشرك",
+      "title": "تصميم واجهة المستخدم",
+      "desc": "مقدمة في تصميم المنتجات الرقمية. ما هو تصميم المنتجات الرقمية؟ ينطوي تصميم المنتجات الرقمية على عملية ...",
+      "image": "https://i.postimg.cc/6q18623b/blog-6.png",
+      "date": "July 17, 2023"
+    },
+    {
+      "id": "Design-Basics-for-Non-Designers",
+      "category": "أدوات التصميم وتصميم واجهة المستخدم",
+      "firstHeading": "أساسيات التصميم لغير المصممين",
+      "secondHeading": "إمكانية الوصول:",
+      "thirdHeading": "ضع مهاراتك في الممارسة:",
+      "firstBanner": "https://i.postimg.cc/59w1xFHX/blog-banner-6.png",
+      "secondBanner": "https://i.postimg.cc/RF78zKP9/blog-second-banner-4.png",
+      "firstParagraph": "في عصر التكنولوجيا الحديثة ، أصبح التصميم الجذاب والواجهات سهلة الاستخدام عاملان حاسمان لنجاح أي منتج رقمي. ومع ذلك ، قبل الغوص في تصميم الواجهة وتعزيز تجربة المستخدم ، من المهم فهم أساسيات الأعمال وفهم كيفية تأثيرها على المنتج النهائي. المعرفة بالأعمال قبل التصميم عنصر حاسم يمكن أن يحدث فرقًا كبيرًا في تجربة المستخدم ونجاح المنتج. تأثير الأعمال على واجهة المستخدم وتجربة المستخدم: تجعل واجهة المستخدم المصممة بشكل جيد التفاعل مع المنتج سلسًا ومريحًا ، بينما يمكن أن تؤدي واجهة المستخدم المصممة بشكل سيئ إلى صعوبات في الملاحة وعدم رضا المستخدم. لذلك ، عندما نمتلك معرفة الأعمال قبل التصميم ، يمكننا فهم احتياجات العملاء وأهداف الشركة بشكل أفضل. يمكننا تحليل سوق المستهلك والمنافسة ، وفهم ما يجذب ويثير ا",
+      "secondParagraph": "دعونا نفترض أن لدينا شركة ناشئة تقوم بتطوير تطبيق سفر يسمح للمستخدمين بحجز الرحلات الجوية والفنادق. إذا كان فريق التصميم يفهم الأعمال بشكل كامل ، فسيكون لديهم فهم واضح لاحتياجات السوق والجمهور المستهدف. وبالتالي ، سيتمكنون من تصميم واجهة مستخدم سهلة الاستخدام تعكس تلك الاحتياجات.",
+      "thirdParagraph": "دعونا نتخيل أن لدينا متجرًا عبر الإنترنت يبيع ملابس الرجال الفاخرة. من خلال فهم الأعمال ، يمكن لفريق التصميم تحديد الجمهور المستهدف وأهمية التصميم الجذاب والتصوير المهني للملابس. لذلك ، يجب على فريق التصميم إيلاء اهتمام كاف لفهم الأعمال وتطبيقه على عملهم لضمان النجاح والتميز في عالم التصميم. لتعزيز فهمك لهذا الموضوع ، يمكنك الاستفادة من بعض المصادر الموثوقة التي تناقش العلاقة بين الأعمال والتصميم وأهميتها. تشمل بعض هذه المصادر: 1 - التفكير التجاري للمصممين: من البحث إلى النتائج 2 - بقلم ريان رومزي. أعمال التصميم: تحقيق التوازن بين الإبداع والربحية بقلم كيث جرانيت. 3 - التصميم هو وظيفة بقلم مايك مونتيرو. 4 - التصميم للعصر الرقمي: كيفية إنشاء منتجات وخدمات موجهة نحو الإنسان من قبل كيم جودوين. 5 - الشرك",
+      "title": "أدوات التصميم وتصميم واجهة المستخدم",
+      "desc": "أساسيات التصميم لغير المصممين. الطباعة: تشير الطباعة إلى فن وتقنية ترتيب الطباعة ...",
+      "image": "https://i.postimg.cc/B6F3PjMw/blog-5.png",
+      "date": "July 18, 2023"
+    },
+    {
+      "id": "Five-considerations-when-designing-an-MVP-for-your-startup-focus",
+      "category": "تصميم واجهة المستخدم",
+      "firstHeading": "خمسة اعتبارات عند تصميم منتج أدنى مستوى لشركتك الناشئة",
+      "secondHeading": "تحدي الافتراضات الخاصة بك حول ما يحتاجه المستخدم:",
+      "thirdHeading": "إزالة أي شيء لا يساهم مباشرة في ما تحتاج إلى تعلمه:",
+      "firstBanner": "https://i.postimg.cc/4y8WJ5pC/blog-banner-7.png",
+      "secondBanner": "https://i.postimg.cc/pX6s4s2z/blog-second-banner-5.png",
+      "firstParagraph": "في عصر التكنولوجيا الحديثة ، أصبح التصميم الجذاب والواجهات سهلة الاستخدام عاملان حاسمان لنجاح أي منتج رقمي. ومع ذلك ، قبل الغوص في تصميم الواجهة وتعزيز تجربة المستخدم ، من المهم فهم أساسيات الأعمال وفهم كيفية تأثيرها على المنتج النهائي. المعرفة بالأعمال قبل التصميم عنصر حاسم يمكن أن يحدث فرقًا كبيرًا في تجربة المستخدم ونجاح المنتج. تأثير الأعمال على واجهة المستخدم وتجربة المستخدم: تجعل واجهة المستخدم المصممة بشكل جيد التفاعل مع المنتج سلسًا ومريحًا ، بينما يمكن أن تؤدي واجهة المستخدم المصممة بشكل سيئ إلى صعوبات في الملاحة وعدم رضا المستخدم. لذلك ، عندما نمتلك معرفة الأعمال قبل التصميم ، يمكننا فهم احتياجات العملاء وأهداف الشركة بشكل أفضل. يمكننا تحليل سوق المستهلك والمنافسة ، وفهم ما يجذب ويثير ا",
+      "secondParagraph": "دعونا نفترض أن لدينا شركة ناشئة تقوم بتطوير تطبيق سفر يسمح للمستخدمين بحجز الرحلات الجوية والفنادق. إذا كان فريق التصميم يفهم الأعمال بشكل كامل ، فسيكون لديهم فهم واضح لاحتياجات السوق والجمهور المستهدف. وبالتالي ، سيتمكنون من تصميم واجهة مستخدم سهلة الاستخدام تعكس تلك الاحتياجات.",
+      "thirdParagraph": "دعونا نتخيل أن لدينا متجرًا عبر الإنترنت يبيع ملابس الرجال الفاخرة. من خلال فهم الأعمال ، يمكن لفريق التصميم تحديد الجمهور المستهدف وأهمية التصميم الجذاب والتصوير المهني للملابس. لذلك ، يجب على فريق التصميم إيلاء اهتمام كاف لفهم الأعمال وتطبيقه على عملهم لضمان النجاح والتميز في عالم التصميم. لتعزيز فهمك لهذا الموضوع ، يمكنك الاستفادة من بعض المصادر الموثوقة التي تناقش العلاقة بين الأعمال والتصميم وأهميتها. تشمل بعض هذه المصادر: 1 - التفكير التجاري للمصممين: من البحث إلى النتائج 2 - بقلم ريان رومزي. أعمال التصميم: تحقيق التوازن بين الإبداع والربحية بقلم كيث جرانيت. 3 - التصميم هو وظيفة بقلم مايك مونتيرو. 4 - التصميم للعصر الرقمي: كيفية إنشاء منتجات وخدمات موجهة نحو الإنسان من قبل كيم جودوين. 5 - الشرك",
+      "title": "تصميم واجهة المستخدم",
+      "desc": "خمسة اعتبارات عند تصميم منتج أدنى مستوى لشركتك الناشئة. عند تصميم منتج أدنى مستوى ...",
+      "image": "https://i.postimg.cc/k4vjH94g/blog-8.png",
+      "date": "July 19, 2023"
+    },
+    {
+      "id": "10-Best-UI-UX-Books-Every-Designer-Should-Read-in-2023",
+      "category": "تصميم واجهة المستخدم",
+      "firstHeading": "أفضل 10 كتب UI / UX يجب على كل مصمم قراءتها في عام 2023",
+      "secondHeading": "التصميم الذري بواسطة براد فروست:",
+      "thirdHeading": "مدمن: كيفية بناء منتجات تشكل العادة من قبل نير إيال:",
+      "firstBanner": "https://i.postimg.cc/Wpfm1tQP/blog-banner-8.png",
+      "secondBanner": "https://i.postimg.cc/xTwKLhfx/blog-second-banner-6.png",
+      "firstParagraph": "في عصر التكنولوجيا الحديثة ، أصبح التصميم الجذاب والواجهات سهلة الاستخدام عاملان حاسمان لنجاح أي منتج رقمي. ومع ذلك ، قبل الغوص في تصميم الواجهة وتعزيز تجربة المستخدم ، من المهم فهم أساسيات الأعمال وفهم كيفية تأثيرها على المنتج النهائي. المعرفة بالأعمال قبل التصميم عنصر حاسم يمكن أن يحدث فرقًا كبيرًا في تجربة المستخدم ونجاح المنتج. تأثير الأعمال على واجهة المستخدم وتجربة المستخدم: تجعل واجهة المستخدم المصممة بشكل جيد التفاعل مع المنتج سلسًا ومريحًا ، بينما يمكن أن تؤدي واجهة المستخدم المصممة بشكل سيئ إلى صعوبات في الملاحة وعدم رضا المستخدم. لذلك ، عندما نمتلك معرفة الأعمال قبل التصميم ، يمكننا فهم احتياجات العملاء وأهداف الشركة بشكل أفضل. يمكننا تحليل سوق المستهلك والمنافسة ، وفهم ما يجذب ويثير ا",
+      "secondParagraph": "دعونا نفترض أن لدينا شركة ناشئة تقوم بتطوير تطبيق سفر يسمح للمستخدمين بحجز الرحلات الجوية والفنادق. إذا كان فريق التصميم يفهم الأعمال بشكل كامل ، فسيكون لديهم فهم واضح لاحتياجات السوق والجمهور المستهدف. وبالتالي ، سيتمكنون من تصميم واجهة مستخدم سهلة الاستخدام تعكس تلك الاحتياجات.",
+      "thirdParagraph": "دعونا نتخيل أن لدينا متجرًا عبر الإنترنت يبيع ملابس الرجال الفاخرة. من خلال فهم الأعمال ، يمكن لفريق التصميم تحديد الجمهور المستهدف وأهمية التصميم الجذاب والتصوير المهني للملابس. لذلك ، يجب على فريق التصميم إيلاء اهتمام كاف لفهم الأعمال وتطبيقه على عملهم لضمان النجاح والتميز في عالم التصميم. لتعزيز فهمك لهذا الموضوع ، يمكنك الاستفادة من بعض المصادر الموثوقة التي تناقش العلاقة بين الأعمال والتصميم وأهميتها. تشمل بعض هذه المصادر: 1 - التفكير التجاري للمصممين: من البحث إلى النتائج 2 - بقلم ريان رومزي. أعمال التصميم: تحقيق التوازن بين الإبداع والربحية بقلم كيث جرانيت. 3 - التصميم هو وظيفة بقلم مايك مونتيرو. 4 - التصميم للعصر الرقمي: كيفية إنشاء منتجات وخدمات موجهة نحو الإنسان من قبل كيم جودوين. 5 - الشرك",
+      "title": "تصميم واجهة المستخدم",
+      "desc": "العنوان: أفضل 10 كتب UI / UX يجب على كل مصمم قراءتها في عام 2023 ...",
+      "image": "https://i.postimg.cc/1XrZqPnt/cabin-003.jpg",
+      "date": "July 20, 2023"
+    },
+    {
+      "id": "10-Best-UI-UX-Books-Every-Designer-Should-Read-in-2023-hidfdfdf",
+      "image": "https://i.postimg.cc/k4vjH94g/blog-8.png",
+      "category": "تصميم واجهة المستخدم",
+      "desc": "سيبسيب",
+      "firstBanner": "سيبسيبسيب",
+      "title": "سيبسي",
+      "secondBanner": "بيسبسيب",
+      "firstHeading": "سيبسي",
+      "firstParagraph": "سيسيب",
+      "secondHeading": "يبسيب",
+      "secondParagraph": "سيبسي",
+      "thirdHeading": "بسيبسي",
+      "thirdParagraph": "بسيب",
+      "date": "2023-12-26"
+    }
+  ],
+  "enBlogs": [
+    {
+      "id": "The-importance-of-Business-knowledge-before-design",
+      "category": "UI Design and test",
+      "firstHeading": "The Importance of Business Knowledge Before Design: The Impact of Business on User Interface and User Experience",
+      "secondHeading": "New Travel Application:",
+      "thirdHeading": "Online Fashion Store for Men's Clothing:",
+      "firstBanner": "https://i.postimg.cc/m2RMmCfR/blog-banner-3.png",
+      "secondBanner": "https://i.postimg.cc/tJ8cHkhr/blog-second-banner-1.png",
+      "firstParagraph": "In the era of modern technology, attractive designs and user- friendly interfaces have become crucial factors for the success of any digital product.However, before delving into interface design and enhancing user experience, it is essential to grasp the fundamentals of business and understand how it impacts the final product.Knowledge of business before design is a critical element that can make a significant difference in user experience and product success.The Impact of Business on User Interface and User Experience: A well - designed user interface makes interacting with the product seamless and comfortable, while a poorly designed one can lead to navigation difficulties and user dissatisfaction.Therefore, when we possess business knowledge before design, we can better comprehend customer needs and company objectives.We can analyze the consumer market and competition, understanding what attracts and interests customers.This knowledge empowers us to design a user interface that meets customer expectations and achieves company goals. By incorporating business knowledge into the design process, we can identify key features that must be included in the user interface and arrange elements based on customer needs and company objectives.This helps us minimize clutter and unnecessary noise, delivering an easy and efficient user experience. Moreover, understanding the business can influence decisions related to design and improve user interactions with the product.It can also guide us in determining appropriate marketing and communication strategies to attract more users and enhance engagement with the product. To provide further clarity, here are some real - life examples illustrating the importance of business knowledge before design and its impact on user interface and user experience: [Include relevant examples or case studies to support your points]. [Conclude your blog post by summarizing the key takeaways and encouraging readers to consider the significance of business knowledge in creating successful digital products.] Note: Since I don't have access to real-life examples or case studies, I left a placeholder for you to include relevant examples that align with your blog's topic and content.Feel free to customize the conclusion and the examples to suit your website's needs.",
+      "secondParagraph": "Let's consider a startup company that is developing a travel application allowing users to book flights and hotels. If the design team fully understands the business, they will have a clear understanding of the market needs and the target audience. Consequently, they will be able to design a user-friendly interface that reflects those needs.",
+      "thirdParagraph": "Let's imagine we have an online store that sells premium men's clothing. By understanding the business, the design team can identify the target audience and the importance of attractive design and professional clothing photography. Therefore, the design team should pay sufficient attention to understanding the business and apply it to their work to ensure success and excellence in the design world. To enhance your understanding of this topic, you can benefit from some reliable sources that discuss the relationship between business and design and its importance.Some of these sources include: 1 - Business Thinking for Designers: From Research to Results 2 - by Ryan Rumsey. The Business of Design: Balancing Creativity and Profitability by Keith Granet. 3 - Design Is a Job by Mike Monteiro. 4 - Designing for the Digital Age: How to Create Human-Centered Products and Services by Kim Goodwin. 5 - The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries. In conclusion, it becomes evident that understanding the business before design is a critical element in achieving product success and improving the user experience.Business knowledge can guide the design process and contribute to striking the perfect balance between form and function, enhancing user interactions, and elevating the product's value in the competitive market.",
+      "title": "UI Design",
+      "desc": "The Importance of Business Knowledge Before Design: The Impact of Business on User Interface and User Experience ...",
+      "image": "https://i.postimg.cc/k4vjH94g/blog-8.png",
+      "date": "July 15, 2023"
+    },
+    {
+      "id": "What's-the-difference-between-ux-and-ui",
+      "category": "UX Design UI Design",
+      "firstHeading": "What's the difference between UX and UI?",
+      "secondHeading": "What is UX?",
+      "thirdHeading": "What is UI?",
+      "firstBanner": "https://i.postimg.cc/G3jJwqj9/blog-banner-4.png",
+      "secondBanner": "https://i.postimg.cc/NfJ6LFSc/blog-second-banner-2.png",
+      "firstParagraph": "When it comes to design, it's essential to understand the difference between UX (User Experience) and UI (User Interface). While UX and UI are often used interchangeably, they refer to distinct aspects of design that play complementary roles in creating a successful product.",
+      "secondParagraph": "UX, or User Experience, focuses on how users interact with a product. It revolves around understanding the user's needs, preferences, and behaviors to design an intuitive and enjoyable experience. UX design encompasses various elements, including information architecture, wireframing, prototyping, and usability testing. The aim of UX design is to ensure that the user's journey through a product is efficient, seamless, and ultimately satisfying.",
+      "thirdParagraph": "UI, or User Interface, deals with the visual and interactive aspects of a design. It involves creating the look, feel, and layout of a product, including elements such as colors, typography, buttons, icons, and visual hierarchy. UI design aims to establish a visually appealing and user-friendly interface that aligns with the brand's identity while facilitating effective user interaction. The difference between UX and UI While UX and UI are closely related, they focus on different aspects of design.Here are some key differences: UX is concerned with the overall experience and how the user interacts with the product, while UI deals with the visual and interactive elements. UX design focuses on user research, information architecture, and usability, whereas UI design focuses on visual design elements and how they are presented. UX design prioritizes usability and functionality, ensuring that the user's goals are met, while UI design emphasizes aesthetics and visual appeal to create a delightful experience. UX design often involves creating wireframes and prototypes to test and iterate the user flow, while UI design concentrates on refining the visual elements and polishing the final interface. UX design and UI design processes. Both UX and UI designs follow a systematic process to create an effective product: UX design process begins with user research and understanding the target audience.This is followed by defining user personas, creating user flows, wireframing, prototyping, and conducting user testing to iterate and improve the design based on feedback. UI design process involves creating visual elements, including color schemes, typography, and style guides.Designers create interfaces using tools like Adobe XD or Sketch, focusing on creating a visually appealing layout that aligns with the brand's identity. Iterative testing and refinement are also performed to ensure usability. Why the difference between UX and UI matters: Understanding the distinction between UX and UI is essential for creating successful and user- centric designs.Recognizing that UX focuses on the overall experience and user satisfaction, whereas UI deals with the visual and interactive aspects, helps ensure that both areas are given equal attention during the design process.By emphasizing both UX and UI, designers can create intuitive, aesthetically pleasing, and engaging products that exceed user expectations.",
+      "title": "UX Design, UI Design",
+      "desc": "What's the difference between UX and UI? When it comes to design, it's essential to understand the difference between ...",
+      "image": "https://i.postimg.cc/50dq1rGQ/blog-7.png",
+      "date": "July 16, 2023"
+    },
+    {
+      "id": "An-introduction-to-digital-product-design",
+      "category": "UI Design",
+      "firstHeading": "An introduction to digital product design",
+      "secondHeading": "Typography:",
+      "thirdHeading": "Colors:",
+      "firstBanner": "https://i.postimg.cc/66H2fS0V/blog-banner-5.png",
+      "secondBanner": "https://i.postimg.cc/bw1wWFQB/blog-second-banner-3.png",
+      "firstParagraph": "What is digital product design? Digital product design involves the process of creating user-centered designs for digital products such as websites, mobile applications, software, and other digital interfaces. It encompasses a range of disciplines including user experience (UX) design, user interface (UI) design, interaction design, and visual design. The core elements of digital product design include understanding user needs, conducting user research, developing user personas, creating wireframes and prototypes, conducting usability testing, and iterating on designs based on user feedback. These elements work together to ensure that the final product is not only visually appealing but also intuitive and functional for the end user. The digital product design process typically follows a set of steps including discovery, definition, design, and delivery. During the discovery phase, designers gather information about the project goals, target audience, and existing user pain points. The definition phase involves defining the product's features, functionalities, and overall user experience. The design phase focuses on creating wireframes, mockups, and prototypes to visualize the product's interface and interaction. Finally, during the delivery phase, the design is implemented and tested before being launched to the market. To create a digital product design strategy for your brand, it's important to consider your target audience, business goals, and market trends. Start by understanding your users' needs and pain points through user research and persona development. This will help you design solutions that meet their expectations and address their challenges. Then, define a clear and concise product vision, outlining the unique value proposition and key features of your digital product. Finally, create a roadmap that outlines the timeline, milestones, and resources required to bring your digital product to life. Collaboration is a crucial aspect of digital product design. It involves working closely with cross-functional teams including developers, product managers, and stakeholders to ensure that the design aligns with technical feasibility, business goals, and user needs. Collaboration also includes gathering feedback from users through usability testing and incorporating that feedback into the design iterations. By fostering effective collaboration, digital product designers can create innovative and user-friendly digital experiences. Design Basics for Non - Designers ",
+      "secondParagraph": "Typography refers to the art and technique of arranging type. Choose fonts that are legible and appropriate for your message. Stick to a maximum of two or three fonts for a clean and cohesive look. Ensure that the font sizes are consistent and easy to read, especially for longer texts. Layout: The layout determines how the elements of your design are organized. Consider the balance of your design by distributing elements evenly. Use white space effectively to create a sense of clarity and focus. Keep the important information or focal point in a prominent position to draw the viewer's attention.",
+      "thirdParagraph": "Colors play a vital role in design as they evoke emotions and convey messages. Choose a color scheme that reflects the mood or personality of your content. Use contrasting colors to create emphasis or highlight important information. Maintain consistency in your color choices throughout your design for a harmonious and professional appearance. Accessibility: Design should be accessible to everyone, including those with disabilities. Ensure that your design is easy to navigate and understand for individuals with visual impairments or color blindness. Consider using alt tags for images and providing text alternatives to make your content accessible to all. Put your skills to practice: The best way to improve your design skills is to apply them in real-life projects. Start small by designing posters, social media graphics, or even logos for personal or community projects. Keep experimenting, seeking feedback, and learning from others to refine your skills. Remember, practice makes perfect! By keeping these design basics in mind, non-designers can create visually appealing and effective designs that communicate their message clearly. Happy designing!",
+      "title": "UI Design",
+      "desc": "An introduction to digital product design. What is digital product design? Digital product design involves the process of ...",
+      "image": "https://i.postimg.cc/6q18623b/blog-6.png",
+      "date": "July 17, 2023"
+    },
+    {
+      "id": "Design-Basics-for-Non-Designers",
+      "category": "Design Tools, UI Design",
+      "firstHeading": "Design Basics for Non-Designers",
+      "secondHeading": "Accessibility:",
+      "thirdHeading": "Put your skills to practice:",
+      "firstBanner": "https://i.postimg.cc/59w1xFHX/blog-banner-6.png",
+      "secondBanner": "https://i.postimg.cc/RF78zKP9/blog-second-banner-4.png",
+      "firstParagraph": "Typography: Typography refers to the art and technique of arranging type. Choose fonts that are legible and appropriate for your message. Stick to a maximum of two or three fonts for a clean and cohesive look. Ensure that the font sizes are consistent and easy to read, especially for longer texts. Layout: The layout determines how the elements of your design are organized.Consider the balance of your design by distributing elements evenly.Use white space effectively to create a sense of clarity and focus.Keep the important information or focal point in a prominent position to draw the viewer's attention. Colors: Colors play a vital role in design as they evoke emotions and convey messages.Choose a color scheme that reflects the mood or personality of your content.Use contrasting colors to create emphasis or highlight important information.Maintain consistency in your color choices throughout your design for a harmonious and professional appearance.",
+      "secondParagraph": "Design should be accessible to everyone, including those with disabilities. Ensure that your design is easy to navigate and understand for individuals with visual impairments or color blindness. Consider using alt tags for images and providing text alternatives to make your content accessible to all.",
+      "thirdParagraph": "The best way to improve your design skills is to apply them in real-life projects. Start small by designing posters, social media graphics, or even logos for personal or community projects. Keep experimenting, seeking feedback, and learning from others to refine your skills. Remember, practice makes perfect! By keeping these design basics in mind, non-designers can create visually appealing and effective designs that communicate their message clearly. Happy designing!",
+      "title": "Design Tools, UI Design",
+      "desc": "Design Basics for Non-Designers. Typography: Typography refers to the art and technique of arranging type ...",
+      "image": "https://i.postimg.cc/B6F3PjMw/blog-5.png",
+      "date": "July 18, 2023"
+    },
+    {
+      "id": "Five-considerations-when-designing-an-MVP-for-your-startup-focus",
+      "category": "UX Design",
+      "firstHeading": "Five considerations when designing an MVP for your startup focus",
+      "secondHeading": "Challenge your assumptions about what a user needs:",
+      "thirdHeading": "Remove anything that doesn’t directly contribute to what you need to learn:",
+      "firstBanner": "https://i.postimg.cc/4y8WJ5pC/blog-banner-7.png",
+      "secondBanner": "https://i.postimg.cc/pX6s4s2z/blog-second-banner-5.png",
+      "firstParagraph": "When designing an MVP (Minimum Viable Product) for your startup, there are several important considerations to keep in mind. These considerations will help you create a product that is focused, user-centric, and efficient. Here are five key factors you should take into account: Focus on the essential value your product offers: With limited resources and time, it's crucial to identify and prioritize the core features and functionalities that are essential to your product's success.By focusing on the value your product provides, you can ensure that your MVP meets the needs and expectations of your target audience.",
+      "secondParagraph": "It's easy to make assumptions about what your users need or want. However, it's important to validate these assumptions by conducting user research, carrying out surveys, or engaging in conversations with your potential customers. By challenging your assumptions, you can gain valuable insights that will help you refine your MVP and make it more user-oriented. Start with the smallest thing that will show success: Instead of aiming for a fully featured product right from the start, focus on creating the smallest version of your product that delivers value and can demonstrate success. This approach allows you to validate your idea quickly and efficiently, without investing excessive time and resources into building a complex product that may not resonate with your target market.",
+      "thirdParagraph": "The primary goal of an MVP is to learn as much as possible about your target audience and their needs. To achieve this, it's important to eliminate any unnecessary features, functionalities, or components that do not directly contribute to your learning objectives. By simplifying your MVP, you can stay focused on gathering the insights you need to make informed product decisions. Find your early adopters: Identifying and engaging with early adopters is essential for the success of your MVP. These are the customers who are willing to try out new products, provide feedback, and help you refine your offering. By targeting early adopters, you can gain insights into your product's strengths and weaknesses, understand its market fit, and build a loyal customer base from the start. Overall, designing an MVP requires careful consideration and prioritization of features, challenging assumptions, starting small, removing unnecessary elements, and finding early adopters. By keeping these considerations in mind, you can create an MVP that lays a strong foundation for the growth and success of your startup.",
+      "title": "UX Design",
+      "desc": "Five considerations when designing an MVP for your startup focus. When designing an MVP ...",
+      "image": "https://i.postimg.cc/k4vjH94g/blog-8.png",
+      "date": "July 19, 2023"
+    },
+    {
+      "id": "10-Best-UI-UX-Books-Every-Designer-Should-Read-in-2023",
+      "category": "UX Design",
+      "firstHeading": "10 Best UI/UX Books Every Designer Should Read in 2023",
+      "secondHeading": "Atomic Design by Brad Frost:",
+      "thirdHeading": "Hooked: How to Build Habit-Forming Products by Nir Eyal: ",
+      "firstBanner": "https://i.postimg.cc/Wpfm1tQP/blog-banner-8.png",
+      "secondBanner": "https://i.postimg.cc/xTwKLhfx/blog-second-banner-6.png",
+      "firstParagraph": "User Interface (UI) and User Experience (UX) are critical aspects of design that can make or break the success of a product or service. As a designer, staying up-to-date with the latest trends, methodologies, and best practices is essential to deliver exceptional user experiences. To help you enhance your skills and knowledge, here are the 10 best UI/UX books that every designer should read in 2023: Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug: A classic in the UX field, this book offers practical advice on how to design intuitive and user- friendly websites.Krug emphasizes the importance of simplicity, clarity, and user - centric thinking to create a seamless user experience. Design of Everyday Things by Don Norman: Delving into the psychology of design, Norman presents a thought- provoking exploration of the relationship between people and the objects they use.This book sheds light on the fundamental principles that guide effective design decisions. Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp, John Zeratsky, and Braden Kowitz: Focused on the design sprint process, this book teaches designers how to quickly prototype and test ideas, allowing for faster iterations and more efficient problem- solving. 100 Things Every Designer Needs to Know About People by Susan Weinschenk: Weinschenk shares invaluable insights into the psychology of human behavior and how it relates to design.Understanding user behavior is crucial for crafting more persuasive and engaging interfaces.",
+      "secondParagraph": "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp, John Zeratsky, and Braden Kowitz: Focused on the design sprint process, this book teaches designers how to quickly prototype and test ideas, allowing for faster iterations and more efficient problem- solving. 100 Things Every Designer Needs to Know About People by Susan Weinschenk: Weinschenk shares invaluable insights into the psychology of human behavior and how it relates to design.Understanding user behavior is crucial for crafting more persuasive and engaging interfaces. Atomic Design by Brad Frost: This book introduces a systematic approach to design by breaking down UI components into smaller, reusable elements.It teaches designers to create consistent and scalable interfaces for various platforms. The Elements of User Experience: User-Centered Design for the Web and Beyond by Jesse James Garrett: Garrett's book outlines the five planes of user experience, helping designers understand the holistic process of crafting user-centered designs from strategy to implementation.",
+      "thirdParagraph": "Focusing on the psychology behind creating addictive products, this book offers valuable insights into building user habits, leading to increased engagement and retention. Design Systems: A Practical Guide to Creating Design Language for Digital Products by Alla Kholmatova: Design systems play a vital role in creating consistent and scalable designs.Kholmatova's book provides a comprehensive guide to building and maintaining effective design systems. The Design of Future Things by Don Norman: Building upon his previous work, Norman explores the challenges and opportunities presented by the rapid evolution of technology and its implications for future design. The User Experience Team of One: A Research and Design Survival Guide by Leah Buley: For solo designers or small teams, this book offers practical strategies to navigate the world of UX design, from conducting research to implementing design solutions effectively. In conclusion, these ten UI/UX books are essential readings for designers aiming to elevate their craft in 2023. Each book provides unique insights and methodologies that will undoubtedly enhance your understanding of user-centered design, usability, and the psychology behind creating exceptional user experiences. By immersing yourself in these resources, you'll be better equipped to tackle the challenges and opportunities that lie ahead in the ever-evolving world of design.",
+      "title": "UX Design",
+      "desc": "Title: 10 Best UI/UX Books Every Designer Should Read in 2023 ...",
+      "image": "https://i.postimg.cc/1XrZqPnt/cabin-003.jpg",
+      "date": "July 20, 2023"
+    }
+  ],
+  "projects": [
+    {
+      "category": "commerce",
+      "title": "لوحة تحكم تطبيق بيع الاثاث متاحه الان",
+      "image": "https://i.postimg.cc/WpDh6Fc1/portfolio-22.png",
+      "behance": "https://www.behance.net/gallery/149076435/_",
+      "dribbble": "https://dribbble.com/shots/18921158-",
+      "id": 31
+    },
+    {
+      "category": "web",
+      "title": "شركة الباحة للإستثمار والتنمية",
+      "image": "https://i.postimg.cc/MGd8gDVJ/portfolio-21.png",
+      "behance": "https://www.behance.net/AhmedUIUX",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 30
+    },
+    {
+      "category": "web",
+      "title": "Tournaments Design",
+      "image": "https://i.postimg.cc/j2GTZSNW/portfolio-20.png",
+      "behance": "https://www.behance.net/AhmedUIUX",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 29
+    },
+    {
+      "category": "web",
+      "title": "Spark Studio",
+      "image": "https://i.postimg.cc/Nf9fTWT9/portfolio-19.png",
+      "behance": "https://www.behance.net/AhmedUIUX",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 28
+    },
+    {
+      "category": "commerce",
+      "title": "E-commerce App",
+      "image": "https://i.postimg.cc/Hx6s4mB5/portfolio-17.png",
+      "behance": "https://www.behance.net/AhmedUIUX",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 27
+    },
+    {
+      "category": "web",
+      "title": "تطبيق اعطال لخدمات السيارات",
+      "image": "https://i.postimg.cc/DzKZ7BSW/portfolio-14.png",
+      "behance": "https://www.behance.net/AhmedUIUX",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 26
+    },
+    {
+      "category": "commerce",
+      "title": "E-shopping E-commerce App",
+      "image": "https://i.postimg.cc/x8d8W8ct/portfolio-9.png",
+      "behance": "https://www.behance.net/gallery/130137267/Eshoping-E-commerce-app",
+      "dribbble": "https://dribbble.com/shots/16742730-Eshoping-E-commerce-app",
+      "id": 25
+    },
+    {
+      "category": "commerce",
+      "title": "!تطبيق متجر بيع الأثاث متوفر للشراء الآن",
+      "image": "https://i.postimg.cc/TwfpJCG8/portfolio-3.png",
+      "behance": "https://www.behance.net/gallery/147649363/_",
+      "dribbble": "https://dribbble.com/shots/18696204-FURNIT-Shop-Online-Shop-App-UI-Kit",
+      "id": 24
+    },
+    {
+      "category": "commerce best",
+      "title": "تطبيق سلة للتجارة الإلكترونية متوفر للشراء الان",
+      "image": "https://i.postimg.cc/sxfGsK0P/portfolio-1.png",
+      "behance": "https://www.behance.net/gallery/147289755/_",
+      "dribbble": "https://dribbble.com/shots/18639480-Cart-E-Commerce-Online-Shop-UI-Kit",
+      "id": 23
+    },
+    {
+      "category": "commerce",
+      "title": "Redesign ALSADHAN",
+      "image": "https://i.postimg.cc/2S1v1cj2/portfolio-2.png",
+      "behance": "https://www.behance.net/gallery/118315167/Redesign-ALSADHAN",
+      "dribbble": "https://dribbble.com/shots/16625145-Redesign-ALSADHAN",
+      "id": 21
+    },
+    {
+      "category": "app",
+      "title": "Wireframe Foodc Website",
+      "image": "https://i.postimg.cc/L6CL6KSJ/portfolio-30.png",
+      "behance": "https://www.behance.net/gallery/134585993/wireframe-foodc-website",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 20
+    },
+    {
+      "category": "app",
+      "title": "FOODC..",
+      "image": "https://i.postimg.cc/gkkSxsb7/portfolio-29.png",
+      "behance": "https://www.behance.net/gallery/134569699/FOODC",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 19
+    },
+    {
+      "category": "app",
+      "title": "App Presentation Template",
+      "image": "https://i.postimg.cc/4dVQm85r/portfolio-28.png",
+      "behance": "https://www.behance.net/gallery/129018625/App-Presentation-Template",
+      "dribbble": "https://dribbble.com/shots/16622249-App-Presentation-Template-IOS-Mockup",
+      "id": 18
+    },
+    {
+      "category": "web",
+      "title": "Website Design Nogom Masrya",
+      "image": "https://i.postimg.cc/MZ19TG3v/portfolio-7.png",
+      "behance": "https://www.behance.net/gallery/125124407/website-design-nogom-masrya",
+      "dribbble": "https://dribbble.com/shots/16625142-website-design-nogom-masrya",
+      "id": 17
+    },
+    {
+      "category": "app",
+      "title": "Payshin App - Electronic payment",
+      "image": "https://i.postimg.cc/mgyjS6WR/portfolio-6.png",
+      "behance": "https://www.behance.net/gallery/129949871/Payshin-App-Electronic-payment",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 16
+    },
+    {
+      "category": "app",
+      "title": "Sadka App - Donation app / تطبيق صدقة للتبرع",
+      "image": "https://i.postimg.cc/T3t76H70/portfolio-27.png",
+      "behance": "https://www.behance.net/gallery/128366729/Sadka-App-Donation-app-",
+      "dribbble": "https://dribbble.com/shots/16625152-Sadka-App-Donation-app",
+      "id": 15
+    },
+    {
+      "category": "app",
+      "title": "Ta3afi App - تطبيق تعافى لعلاج ادمان الاباحية",
+      "image": "https://i.postimg.cc/fThgjdSc/portfolio-13.png",
+      "behance": "https://www.behance.net/gallery/129122767/Ta3afi-App-",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 14
+    },
+    {
+      "category": "commerce",
+      "title": "EIS shop E-commerce app",
+      "image": "https://i.postimg.cc/R0bDcbwh/portfolio-24.png",
+      "behance": "https://www.behance.net/gallery/131630999/EIS-shop-E-commerce-app",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 13
+    },
+    {
+      "category": "commerce",
+      "title": "PHARMACY Shop & Online Shop App UI Kit",
+      "image": "https://i.postimg.cc/tR1HmFg8/portfolio-15.png",
+      "behance": "https://www.behance.net/gallery/148487431/PHARMACY-Shop-Online-Shop-App-UI-Kit",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 12
+    },
+    {
+      "category": "web",
+      "title": "Personal Resume & Portfolio Landing Page",
+      "image": "https://i.postimg.cc/3RRtNj6h/portfolio-26.png",
+      "behance": "https://www.behance.net/gallery/147133191/Personal-Resume-Portfolio-Landing-Page",
+      "dribbble": "https://dribbble.com/shots/18615553-Personal-Resume-Portfolio-Landing-Page",
+      "id": 11
+    },
+    {
+      "category": "commerce",
+      "title": "Electro e-commerce android and web versions",
+      "image": "https://i.postimg.cc/kgQ1pg80/portfolio-16.png",
+      "behance": "https://www.behance.net/gallery/143499517/Electro-e-commerce-android-and-web-versions",
+      "dribbble": "https://dribbble.com/shots/18232381-Electro-e-commerce-android-and-web-versions",
+      "id": 10
+    },
+    {
+      "category": "best",
+      "title": "Teamsoft - website design",
+      "image": "https://i.postimg.cc/657FYKMK/portfolio-11.png",
+      "behance": "https://www.behance.net/gallery/144660857/Teamsoft-website-design",
+      "dribbble": "https://dribbble.com/shots/18343083-Teamsoft-website-design",
+      "id": 9
+    },
+    {
+      "category": "app",
+      "title": "تطبيق خدماتي - للخدمات الالكترونية",
+      "image": "https://i.postimg.cc/85txnz8p/portfolio-23.png",
+      "behance": "https://www.behance.net/gallery/154576721/_",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 8
+    },
+    {
+      "category": "best",
+      "title": "Bluckit Wallpaper App",
+      "image": "https://i.postimg.cc/R01kKTXn/portfolio-12.png",
+      "behance": "https://www.behance.net/gallery/162417211/Bluckit-Wallpaper-App",
+      "dribbble": "https://dribbble.com/shots/20502798-Bluckit-Wallpaper-App",
+      "id": 7
+    },
+    {
+      "category": "app best",
+      "title": "Wagehat . تحدي واجهات",
+      "image": "https://i.postimg.cc/JzrZRrSV/portfolio-18.png",
+      "behance": "https://www.behance.net/gallery/160272085/-Wagehat-",
+      "dribbble": "https://dribbble.com/shots/20350360-",
+      "id": 6
+    },
+    {
+      "category": "app best",
+      "title": "NetCube App",
+      "image": "https://i.postimg.cc/6qZL4Mfk/portfolio-10.png",
+      "behance": "https://www.behance.net/gallery/163809845/NetCube-App-",
+      "dribbble": "https://dribbble.com/shots/20657567-NetCube-App",
+      "id": 5
+    },
+    {
+      "category": "app best",
+      "title": "Fitness App v1.0",
+      "image": "https://i.postimg.cc/hGC0kzG5/portfolio-5.png",
+      "behance": "https://www.behance.net/gallery/165665157/Fitness-App-v10",
+      "dribbble": "https://dribbble.com/AhmedUIUX",
+      "id": 4
+    },
+    {
+      "category": "app best",
+      "title": "تطبيق رفيق المسلم - لكل مسلم",
+      "image": "https://i.postimg.cc/mgyjS6WR/portfolio-6.png",
+      "behance": "https://www.behance.net/gallery/162352005/_",
+      "dribbble": "https://dribbble.com/shots/20496731-",
+      "id": 3
+    },
+    {
+      "category": "commerce best",
+      "title": "Fresh Farm App",
+      "image": "https://i.postimg.cc/QttT1fh6/portfolio-4.png",
+      "behance": "https://www.behance.net/gallery/162764371/Fresh-Farm-app",
+      "dribbble": "https://dribbble.com/shots/20540005-Fresh-Farm-app",
+      "id": 2
+    },
+    {
+      "category": "web best",
+      "title": "Souq Rak E-commerce",
+      "image": "https://i.postimg.cc/rw1xkdf9/portfolio-31.png",
+      "behance": "https://www.behance.net/gallery/175808323/Souq-Rak-E-commerce",
+      "dribbble": "https://dribbble.com/shots/22057313-Souq-Rak-E-commerce",
+      "id": 37
+    },
+    {
+      "category": "web best",
+      "title": "Career portfolio v.1",
+      "image": "https://i.postimg.cc/6pMMVvtQ/portfolio-32.png",
+      "behance": "https://www.behance.net/gallery/175484997/Career-portfolio-v1",
+      "dribbble": "https://dribbble.com/shots/22057319-Career-portfolio-v-1",
+      "id": 36
+    },
+    {
+      "category": "commerce best",
+      "title": "Waqari - وقاري",
+      "image": "https://i.postimg.cc/TYSCwWqM/portfolio-25.png",
+      "behance": "https://www.behance.net/gallery/175361957/waqari-",
+      "dribbble": "https://www.behance.net/gallery/162764371/Fresh-Farm-app",
+      "id": 1
+    },
+    {
+      "id": "40",
+      "title": "testtt",
+      "category": "web best",
+      "image": "https://i.postimg.cc/1XrZqPnt/cabin-003.jpg",
+      "behance": "https://www.behance.net/gallery/125124407/website-design-nogom-masrya",
+      "dribbble": "https://dribbble.com/"
+    }
+  ],
+  "cv": [
+    {
+      "id": "1",
+      "link": "https://drive.google.com/uc?export=download&id=1oCf5Vasa_lvEk-xASLtuOxSRbmPShhO7"
+    }
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "link": "https://i.postimg.cc/rFyNwp2C/c1.png"
+    },
+    {
+      "id": 2,
+      "link": "https://i.postimg.cc/T25pqMqM/c2.png"
+    },
+    {
+      "id": 3,
+      "link": "https://i.postimg.cc/hP9v6L52/c3.png"
+    },
+    {
+      "id": 4,
+      "link": "https://i.postimg.cc/bJDNTknH/c4.png"
+    },
+    {
+      "id": 5,
+      "link": "https://i.postimg.cc/Kz6csjrX/c5.png"
+    },
+    {
+      "id": 6,
+      "link": "https://i.postimg.cc/fWdRS7DM/c6.png"
+    },
+    {
+      "id": 7,
+      "link": "https://i.postimg.cc/DyKyrWwL/c7.png"
+    },
+    {
+      "id": 8,
+      "link": "https://i.postimg.cc/jSSTcy0w/c8.png"
+    },
+    {
+      "id": 9,
+      "link": "https://i.postimg.cc/7Zfcb9rV/c9.png"
+    },
+    {
+      "id": 10,
+      "link": "https://i.postimg.cc/3xsLNHB8/c10.png"
+    },
+    {
+      "id": 11,
+      "link": "https://i.postimg.cc/qBDxgTJP/c11.png"
+    },
+    {
+      "id": 12,
+      "link": "https://i.postimg.cc/sfG4BLM1/c12.png"
+    },
+    {
+      "id": 13,
+      "link": "https://i.postimg.cc/K82fh5vj/c13.png"
+    },
+    {
+      "id": 14,
+      "link": "https://i.postimg.cc/VkftFZkq/c14.png"
+    },
+    {
+      "link": "https://i.postimg.cc/vm1cPJFV/c15.png",
+      "id": 15
+    },
+    {
+      "link": "https://i.postimg.cc/tRzWVHXq/Screenshot-21.png",
+      "id": 16
+    },
+    {
+      "id": "17",
+      "link": "https://drive.google.com/uc?export=download&id=1oCf5Vasa_lvEk-xASLtuOxSRbmPShhO7"
+    }
+  ]
+}
