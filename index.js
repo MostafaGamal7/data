@@ -6,6 +6,7 @@ const rangeMiddleware = require("./range"); // Import your range.js file
 app.use(cors()); // Allow all CORS requests
 // Use your custom range middleware to handle Content-Range header
 app.use(rangeMiddleware);
+app.options("*", cors()); // Respond to all OPTIONS requests
 const fs = require("fs");
 
 const PORT = process.env.PORT || 8000;
@@ -13,7 +14,6 @@ const PORT = process.env.PORT || 8000;
 // Read the data from db.json
 const rawData = fs.readFileSync("db.json");
 const data = JSON.parse(rawData);
-console.log(data.cv);
 
 // Middleware to parse JSON requests
 app.use(express.json());
@@ -25,9 +25,7 @@ app.get("/arBlogs", (req, res) => {
 
 // Endpoint to get a specific Arabic blog by ID
 app.get("/arBlogs/:id", (req, res) => {
-  const blog = data.arBlogs.find(
-    (blog) => blog.id.toString() === req.params.id.toString()
-  );
+  const blog = data.arBlogs.find((blog) => blog.id === req.params.id);
   if (!blog) {
     return res.status(404).json({ error: "Blog not found" });
   }
@@ -44,16 +42,41 @@ app.post("/arBlogs", (req, res) => {
 });
 
 // Similar endpoints for updating and deleting Arabic blogs...
+// // Update an existing Arabic blog
+// app.put("/arBlogs/:id", (req, res) => {
+//   const blog = data.arBlogs.find(
+//     (blog) => blog.id.toString() === req.params.id.toString()
+//   );
+//   if (!blog) {
+//     return res.status(404).json({ error: "Blog not found" });
+//   }
+//   blog.title = req.body.title;
+//   blog.body = req.body.body;
+//   // Save the updated data back to db.json (to mimic persistence)
+//   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
+//   res.json(blog);
+// });
 // Update an existing Arabic blog
 app.put("/arBlogs/:id", (req, res) => {
-  const blog = data.arBlogs.find(
-    (blog) => blog.id.toString() === req.params.id.toString()
-  );
+  const blog = data.arBlogs.find((blog) => blog.id === req.params.id);
   if (!blog) {
     return res.status(404).json({ error: "Blog not found" });
   }
+
+  blog.category = req.body.category;
+  blog.firstHeading = req.body.firstHeading;
+  blog.secondHeading = req.body.secondHeading;
+  blog.thirdHeading = req.body.thirdHeading;
+  blog.firstBanner = req.body.firstBanner;
+  blog.secondBanner = req.body.secondBanner;
+  blog.firstParagraph = req.body.firstParagraph;
+  blog.secondParagraph = req.body.secondParagraph;
+  blog.thirdParagraph = req.body.thirdParagraph;
   blog.title = req.body.title;
-  blog.body = req.body.body;
+  blog.desc = req.body.desc;
+  blog.image = req.body.image;
+  blog.date = req.body.date;
+
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
   res.json(blog);
@@ -105,8 +128,20 @@ app.put("/enBlogs/:id", (req, res) => {
   if (!blog) {
     return res.status(404).json({ error: "Blog not found" });
   }
+  blog.category = req.body.category;
+  blog.firstHeading = req.body.firstHeading;
+  blog.secondHeading = req.body.secondHeading;
+  blog.thirdHeading = req.body.thirdHeading;
+  blog.firstBanner = req.body.firstBanner;
+  blog.secondBanner = req.body.secondBanner;
+  blog.firstParagraph = req.body.firstParagraph;
+  blog.secondParagraph = req.body.secondParagraph;
+  blog.thirdParagraph = req.body.thirdParagraph;
   blog.title = req.body.title;
-  blog.body = req.body.body;
+  blog.desc = req.body.desc;
+  blog.image = req.body.image;
+  blog.date = req.body.date;
+
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
   res.json(blog);
@@ -156,12 +191,16 @@ app.put("/projects/:id", (req, res) => {
   if (!project) {
     return res.status(404).json({ error: "Project not found" });
   }
+  project.category = req.body.category;
   project.title = req.body.title;
-  project.body = req.body.body;
+  project.image = req.body.image;
+  project.behance = req.body.behance;
+  project.dribbble = req.body.dribbble;
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
   res.json(project);
 });
+
 // Delete a project from the collection
 app.delete("/projects/:id", (req, res) => {
   const projectIndex = data.projects.findIndex(
@@ -198,6 +237,7 @@ app.post("/certificates", (req, res) => {
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
   res.status(201).json(newCertificate);
 });
+
 // Update an existing certificate
 app.put("/certificates/:id", (req, res) => {
   const certificate = data.certificates.find(
@@ -206,8 +246,7 @@ app.put("/certificates/:id", (req, res) => {
   if (!certificate) {
     return res.status(404).json({ error: "Certificate not found" });
   }
-  certificate.title = req.body.title;
-  certificate.body = req.body.body;
+  certificate.link = req.body.link;
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
   res.json(certificate);
@@ -248,16 +287,18 @@ app.post("/cv", (req, res) => {
 });
 // Update an existing cv
 app.put("/cv/:id", (req, res) => {
-  const cv = data.cv.find((cv) => cv.id.toString() == req.params.id.toString());
+  const cv = data.cv.find(
+    (cv) => cv.id.toString() === req.params.id.toString()
+  );
   if (!cv) {
     return res.status(404).json({ error: "CV not found" });
   }
-  cv.title = req.body.title;
-  cv.body = req.body.body;
+  cv.link = req.body.link; // Update the link property
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
   res.json(cv);
 });
+
 // Delete a cv from the collection
 app.delete("/cv/:id", (req, res) => {
   const cvIndex = data.cv.findIndex(

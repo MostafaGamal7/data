@@ -95,22 +95,6 @@
       "desc": "العنوان: أفضل 10 كتب UI / UX يجب على كل مصمم قراءتها في عام 2023 ...",
       "image": "https://i.postimg.cc/1XrZqPnt/cabin-003.jpg",
       "date": "July 20, 2023"
-    },
-    {
-      "id": "10-Best-UI-UX-Books-Every-Designer-Should-Read-in-2023-hidfdfdf",
-      "image": "https://i.postimg.cc/k4vjH94g/blog-8.png",
-      "category": "تصميم واجهة المستخدم",
-      "desc": "سيبسيب",
-      "firstBanner": "سيبسيبسيب",
-      "title": "سيبسي",
-      "secondBanner": "بيسبسيب",
-      "firstHeading": "سيبسي",
-      "firstParagraph": "سيسيب",
-      "secondHeading": "يبسيب",
-      "secondParagraph": "سيبسي",
-      "thirdHeading": "بسيبسي",
-      "thirdParagraph": "بسيب",
-      "date": "2023-12-26"
     }
   ],
   "enBlogs": [
@@ -467,19 +451,11 @@
       "behance": "https://www.behance.net/gallery/175361957/waqari-",
       "dribbble": "https://www.behance.net/gallery/162764371/Fresh-Farm-app",
       "id": 1
-    },
-    {
-      "id": "40",
-      "title": "testtt",
-      "category": "web best",
-      "image": "https://i.postimg.cc/1XrZqPnt/cabin-003.jpg",
-      "behance": "https://www.behance.net/gallery/125124407/website-design-nogom-masrya",
-      "dribbble": "https://dribbble.com/"
     }
   ],
   "cv": [
     {
-      "id": "1",
+      "id": 1,
       "link": "https://drive.google.com/uc?export=download&id=1oCf5Vasa_lvEk-xASLtuOxSRbmPShhO7"
     }
   ],
@@ -547,10 +523,6 @@
     {
       "link": "https://i.postimg.cc/tRzWVHXq/Screenshot-21.png",
       "id": 16
-    },
-    {
-      "id": "17",
-      "link": "https://drive.google.com/uc?export=download&id=1oCf5Vasa_lvEk-xASLtuOxSRbmPShhO7"
     }
   ]
 }

@@ -1,6 +1,6 @@
 module.exports = (req, res, next) => {
   // Calculate total number of items based on the requested resource
-  const totalItems = req.path === "/enblogs" ? 6 : 10; // Adjust based on your data
+  const totalItems = req.path === "/enblogs" ? 6 : 20; // Adjust based on your data
 
   // Get the requested page number from the request headers
   const pageParam = req.headers["x-pagination-page"] || 1;
