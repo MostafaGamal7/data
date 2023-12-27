@@ -8,6 +8,7 @@ app.use(cors()); // Allow all CORS requests
 app.use(rangeMiddleware);
 app.options("*", cors()); // Respond to all OPTIONS requests
 const fs = require("fs");
+const { defaultMaxListeners } = require("events");
 
 const PORT = process.env.PORT || 8000;
 
@@ -317,5 +318,7 @@ app.delete("/cv/:id", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
+
+export default app;
 
 module.exports = app;
