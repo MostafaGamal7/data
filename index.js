@@ -19,6 +19,11 @@ const data = JSON.parse(rawData);
 // Middleware to parse JSON requests
 app.use(express.json());
 
+// Function to generate a random ID
+function generateRandomId() {
+  return Math.random().toString(36).substr(2, 9); // Generate a random string ID
+}
+
 // Endpoint to get all Arabic blogs
 app.get("/arBlogs", (req, res) => {
   res.json(data.arBlogs);
@@ -36,6 +41,10 @@ app.get("/arBlogs/:id", (req, res) => {
 // Endpoint to create a new Arabic blog
 app.post("/arBlogs", (req, res) => {
   const newBlog = req.body;
+  // Check if 'id' property is not provided in the incoming object
+  if (!newBlog.id) {
+    newBlog.id = generateRandomId(); // Generate a random ID
+  }
   data.arBlogs.push(newBlog);
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
@@ -101,6 +110,12 @@ app.get("/enBlogs/:id", (req, res) => {
 // Endpoint to create a new English blog
 app.post("/enBlogs", (req, res) => {
   const newBlog = req.body;
+
+  // Check if 'id' property is not provided in the incoming object
+  if (!newBlog.id) {
+    newBlog.id = generateRandomId(); // Generate a random ID
+  }
+
   data.enBlogs.push(newBlog);
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
@@ -160,6 +175,11 @@ app.get("/projects/:id", (req, res) => {
 // Add a new project
 app.post("/projects", (req, res) => {
   const newProject = req.body;
+
+  // Check if 'id' property is not provided in the incoming object
+  if (!newProject.id) {
+    newProject.id = generateRandomId(); // Generate a random ID
+  }
   data.projects.push(newProject);
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
@@ -214,6 +234,11 @@ app.get("/certificates/:id", (req, res) => {
 // Add a new certificate
 app.post("/certificates", (req, res) => {
   const newCertificate = req.body;
+
+  // Check if 'id' property is not provided in the incoming object
+  if (!newCertificate.id) {
+    newCertificate.id = generateRandomId(); // Generate a random ID
+  }
   data.certificates.push(newCertificate);
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
@@ -262,6 +287,11 @@ app.get("/cv/:id", (req, res) => {
 // Add a new cv
 app.post("/cv", (req, res) => {
   const newCv = req.body;
+
+  // Check if 'id' property is not provided in the incoming object
+  if (!newCv.id) {
+    newCv.id = generateRandomId(); // Generate a random ID
+  }
   data.cv.push(newCv);
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
