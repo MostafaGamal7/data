@@ -43,20 +43,6 @@ app.post("/arBlogs", (req, res) => {
 });
 
 // Similar endpoints for updating and deleting Arabic blogs...
-// // Update an existing Arabic blog
-// app.put("/arBlogs/:id", (req, res) => {
-//   const blog = data.arBlogs.find(
-//     (blog) => blog.id.toString() === req.params.id.toString()
-//   );
-//   if (!blog) {
-//     return res.status(404).json({ error: "Blog not found" });
-//   }
-//   blog.title = req.body.title;
-//   blog.body = req.body.body;
-//   // Save the updated data back to db.json (to mimic persistence)
-//   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
-//   res.json(blog);
-// });
 // Update an existing Arabic blog
 app.put("/arBlogs/:id", (req, res) => {
   const blog = data.arBlogs.find((blog) => blog.id === req.params.id);
@@ -65,18 +51,19 @@ app.put("/arBlogs/:id", (req, res) => {
   }
 
   blog.category = req.body.category;
-  blog.firstHeading = req.body.firstHeading;
-  blog.secondHeading = req.body.secondHeading;
-  blog.thirdHeading = req.body.thirdHeading;
+  // blog.firstHeading = req.body.firstHeading;
+  // blog.secondHeading = req.body.secondHeading;
+  // blog.thirdHeading = req.body.thirdHeading;
   blog.firstBanner = req.body.firstBanner;
-  blog.secondBanner = req.body.secondBanner;
-  blog.firstParagraph = req.body.firstParagraph;
-  blog.secondParagraph = req.body.secondParagraph;
-  blog.thirdParagraph = req.body.thirdParagraph;
+  // blog.secondBanner = req.body.secondBanner;
+  // blog.firstParagraph = req.body.firstParagraph;
+  // blog.secondParagraph = req.body.secondParagraph;
+  // blog.thirdParagraph = req.body.thirdParagraph;
   blog.title = req.body.title;
   blog.desc = req.body.desc;
   blog.image = req.body.image;
   blog.date = req.body.date;
+  blog.body = req.body.body;
 
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
@@ -130,18 +117,12 @@ app.put("/enBlogs/:id", (req, res) => {
     return res.status(404).json({ error: "Blog not found" });
   }
   blog.category = req.body.category;
-  blog.firstHeading = req.body.firstHeading;
-  blog.secondHeading = req.body.secondHeading;
-  blog.thirdHeading = req.body.thirdHeading;
   blog.firstBanner = req.body.firstBanner;
-  blog.secondBanner = req.body.secondBanner;
-  blog.firstParagraph = req.body.firstParagraph;
-  blog.secondParagraph = req.body.secondParagraph;
-  blog.thirdParagraph = req.body.thirdParagraph;
   blog.title = req.body.title;
   blog.desc = req.body.desc;
   blog.image = req.body.image;
   blog.date = req.body.date;
+  blog.body = req.body.body;
 
   // Save the updated data back to db.json (to mimic persistence)
   fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
